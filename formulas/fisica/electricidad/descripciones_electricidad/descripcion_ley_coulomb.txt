@@ -1,0 +1,8 @@
+Ley de Coulomb
+Expresa la fuerza desarrollada entre dos cargas eléctricas: Q1 y Q2 separadas una distancia d.
+
+Donde e es la permitividad del médio. En el vacío e0=8.85•10-12 C2 /N•m2 (er•e0);er=permitividad relativa(ver tabla)
+
+F se mide en newtons, con Q1 y Q2 en culombios y d en metros.
+
+Las cargas pueden ser positivas o negativas: cargas del mismo signo se repelen; cargas de signos contrarios se atraen
