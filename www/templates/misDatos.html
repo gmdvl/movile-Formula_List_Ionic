@@ -1,27 +1,33 @@
 <ion-view style="" id="page3" title="Mis Datos">
     <ion-content class="has-header" padding="true">
-        <div style="margin: 0px; line-height: 250px; background-color: rgb(255, 255, 255); text-align: center;"> <!--modifique el color de fondo de este div a blanco-->
-           <div class="circular"></div>
-           <!-- cambie <i style="font-size: 64px; color: rgb(136, 136, 136); vertical-align: middle;" class="icon ion-image"></i> por una imagen con su respectivo css con las siguientes configur -->
+        
+           <div class="container">
+            <img class="avatar"  src="img/mike.png"/>
+           </div>
            <style type="text/css">
 
-           .circular {
-           	position: absolute;
-           	top: 50%;
-           	left: 50%;
-            width: 125px; 
-            height: 125px; 
-            margin-left: -75px;
-            margin-top: 5px;
+           div.container {
+            width: 96%;
+            max-width: 960px;
+            margin: 0 auto;
+            }
+            
+            .avatar{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 30%; 
+            height: auto; 
+            margin-left: -55px;
+            margin-top: 10px;
             border-radius: 150px;
             -webkit-border-radius: 150px; 
             -moz-border-radius: 150px; 
-            background: url("img/mike.png") no-repeat; 
             vertical-align: middle; 
             background-size: 100% 100%;
+            box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.16), 0 2px 5px 0 rgba(0, 0, 0, 0.26);
 
-        	}
-
+            }       
            </style>
         </div>
     </ion-content>
