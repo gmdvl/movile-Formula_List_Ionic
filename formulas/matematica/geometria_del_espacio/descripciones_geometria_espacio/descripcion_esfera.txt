@@ -1,2 +1,0 @@
-La esfera
-Es un sólido, limitado por una superficie curva, en lacual todos los puntos equidistan de un punto interior llamado centro.La mitad de una esfera se llama hemisferio o semi-esfera.

@@ -1,3 +1,0 @@
-Ley de Boyle Mariotte
-Para cualquier masa de un gas, a temperatura constante, el producto de la presión por el volumen es
-constante. 

@@ -1,6 +1,0 @@
-Cilindro recto
-Llámese cilindro a un sólido limitado por una superficie cilíndrica y dos superficies planas paralelas llamadas bases.Los términos base, altura y área lateral son usadoscomo en los prismas.
-
-Un cilindro es recto cuando su generatriz es perpendicular a las bases.
-
-El cilindro recto o de revolución, es el que se considera generado por la rotación de un rectánguloalrededor de unos de sus lados

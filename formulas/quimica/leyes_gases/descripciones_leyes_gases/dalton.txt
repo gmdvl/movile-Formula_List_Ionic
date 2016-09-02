@@ -1,4 +1,0 @@
-Ley de Dalton de las presiones parciales
-En una mezcla de gases, cada gas ejerce una presión parcial igual a la que tendría si ocupase él solo todo
-el volumen a la misma temperatura, y la presión total de la mezcla es igual a la auma de las presiones
-parciales de todos los gases que la componen.

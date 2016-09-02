@@ -1,3 +1,0 @@
-2ª Ley de Charles-Gay-Lussac
-Para cualquier masa de gas, a volumen constante, la presión es directamente
-proporcional a su temperatura absoluta. 

@@ -1,8 +1,0 @@
-Ley de Ohm
-Intensidad es igual a la tensión partida por la resistencia.
-
-Donde: I es la intensidad en amperios (A)
-
- V es la tensión en voltios (V)
-
- R es la resistencia en ohmios (O)
