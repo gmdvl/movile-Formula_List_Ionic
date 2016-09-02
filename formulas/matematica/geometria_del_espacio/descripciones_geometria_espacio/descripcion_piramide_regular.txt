@@ -1,4 +1,0 @@
-Pirámide regular
-Es aquella cuya base es un polígono regular y suscaras laterales son triángulos isósceles iguales.
-
-La altura de una pirámide regular pasa por el centrode la circunferencia inscrita o circunscrita a la basede la pirámide.

@@ -1,6 +1,0 @@
-Permeabildiad magnética
-µno es constante para un determinado material, sino que varía con la inducción (curvas de Pistoye).
-
-En el vacío: µ 0 = 4p • 107 henrios/m.
-
-La permeabilidad relativa de un material es µr = µ/ µ0
