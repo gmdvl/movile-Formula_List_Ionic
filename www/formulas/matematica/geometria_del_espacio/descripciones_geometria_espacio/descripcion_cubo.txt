@@ -1,0 +1,2 @@
+El cubo
+El cubo es un prisma rectángular. Un prisma es regular cuando tienen polígonos regulares por bases y sus aristas laterales son perpen-diculares a las bases.
