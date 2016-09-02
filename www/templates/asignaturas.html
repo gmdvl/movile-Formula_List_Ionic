@@ -18,6 +18,7 @@
             <div ng-class="isItemShown(item) ? 'item-expand active' : 'item-expand inactive'">
               <h2 class="title">{{ item.title }}</h2>
               <p class="text">{{ item.text }}</p>
+
               <img class="img" ng-src="{{item.src}}"/>
             </div>
             <div ng-click="toggleItem(item)" class="item-expand-footer">
