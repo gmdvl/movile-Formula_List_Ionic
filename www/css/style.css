@@ -71,7 +71,7 @@ color: #212121;  /* Color del texto de las pestañas al pasar el cursor por enci
 }
 
 #contenedor input:checked + label {
-background: #00796b;  /* Fondo de las pestañas al presionar */
+background: #238F42;  /* Fondo de las pestañas al presionar */
 color: #FFFFFF; /* Color de las pestañas al presionar */
 z-index: 6;
 line-height: 45px;
@@ -85,7 +85,7 @@ top: -4px;
 }
 
 .content {
-background: #00796b;  /* Fondo del contenido */
+background: #238F42;  /* Fondo del contenido */
 position: relative;
 width: 100%;
 height: 150px;  /* Alto del contenido */
