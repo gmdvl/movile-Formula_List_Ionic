@@ -1,0 +1,10 @@
+Potencia de una resistencia
+Las tres formulas básicas, para calcular la potencia de una resistencia.
+
+Donde: P es la potencia en vatios (W)
+
+ V es la tensión en voltios (V)
+
+ I es la intensidad en amperios (A)
+
+ R es la resistencia en ohmios (O)
