@@ -9,7 +9,7 @@ angular.module('app.routes', [])
   $stateProvider
     
   
-
+/*
       .state('menu.home', {
     url: '/page1',
     views: {
@@ -18,7 +18,7 @@ angular.module('app.routes', [])
         controller: 'homeCtrl'
       }
     }
-  })
+  })*/
 
   .state('menu.inforamacion', {
     url: '/page2',
@@ -66,7 +66,7 @@ angular.module('app.routes', [])
     }
   })
 
-$urlRouterProvider.otherwise('/side-menu21/page1')
+$urlRouterProvider.otherwise('/side-menu21/page3')
 
   
 
